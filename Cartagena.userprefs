@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Container.cs">
+    <Files>
+      <File FileName="Assets\scripts\Node.cs" Line="100" Column="12" />
+      <File FileName="Assets\scripts\Driver.cs" Line="107" Column="19" />
+      <File FileName="Assets\scripts\Dijkstras.cs" Line="14" Column="16" />
+      <File FileName="Assets\scripts\Route.cs" Line="13" Column="2" />
+      <File FileName="Assets\scripts\Container.cs" Line="24" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
